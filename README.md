@@ -8,7 +8,6 @@
     <div style="position: relative;">
         <h3 >Hi, I'm Hoa Viet Nguyen 
             <img style = "width: 20px;" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="">
-            - Web Developer
         </h3>
     </div>
     <div class="info">
@@ -28,7 +27,7 @@
         </ul>
     </div>
     <div>
-        <hr style="height:12px; margin: 24px 0; background-color: #d0d7de; border: 0;"></hr>
+    <hr style="height:12px; margin: 24px 0; background-color: #d0d7de; border: 0;"></hr>
     </div>
     <div>
         <h3>Languages and Tools:</h3>
@@ -44,6 +43,33 @@
             <img style="width:40px; margin-left: 18px;"src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="">
             <img style="width:40px; margin-left: 18px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="">
         </div>
+    </div>
+    <hr style="height:12px; margin: 24px 0; background-color: #d0d7de; border: 0;"></hr>
+    <div>
+        <h3>
+            <img style="width:20px;"src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png" alt="">
+            Contact me via:
+        </h3>
+        <p>
+            <a style="text-decoration:none;" href="https://www.facebook.com/nv.hoa.24">
+                <img style="width:30px;"
+                    src="https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png"
+                    alt="">
+            </a>
+            <a style="text-decoration:none;" href="">
+                <img style="width:30px;"
+                src="https://camo.githubusercontent.com/e3d4f28b68ddcb661ae21daaf9ffda3a86ce25e30de86975b63399f73de63df3/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f652f65372f496e7374616772616d5f6c6f676f5f323031362e7376672f3130323470782d496e7374616772616d5f6c6f676f5f323031362e7376672e706e67" alt="">
+            </a>
+            <a style="text-decoration:none;" href="https://github.com/HoaConf">
+                <img style="width:30px;" src="https://camo.githubusercontent.com/7df0b771c958e1037aaf92e60c9491f7d01628c31d70f822aebe153a2daf2c8a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769746875622f6769746875622d74696c652e737667" alt="">
+            </a>
+            <a style="text-decoration:none;" href="mailto:hoaitdhv@gmail.com">
+                <img style="width:30px;" src="https://raw.githubusercontent.com/github/explore/c48cd5d649ad3d397166ad3661a259bed9696ea6/topics/gmail/gmail.png" alt="">
+            </a>
+            <a style="text-decoration:none;" href="https://www.linkedin.com/in/hoavinhuni/">
+                <img style="width:30px;" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" alt="">
+            </a>
+        </p>
     </div>
 </body>
 </html>
